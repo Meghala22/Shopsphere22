@@ -1,0 +1,26 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Logs
+*.log
+*.err.log
+
+# Node / React
+node_modules/
+build/
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Java / Maven / Spring Boot
+target/
+*.class
+
+# Common temporary files
+*.tmp
+*.swp
