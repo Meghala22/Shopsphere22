@@ -1,0 +1,12 @@
+.git
+.github
+.idea
+target
+node_modules
+ecommerce-ui/node_modules
+ecommerce-ui/build
+backend*.log
+frontend*.log
+*.err.log
+*.log
+README.md
